@@ -40,5 +40,5 @@ Este projeto consiste em uma aplicação em linguagem C para criptografia de men
 
 1. Clone o repositório ou baixe o arquivo fonte:
    ```bash
-   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
-   cd seu-repositorio
+   git clone [https://github.com/slyyd/cifradecesar_pa_fibonnaci.git](https://github.com/slyyd/cifradecesar_pa_fibonnaci.git)
+   cd cifradecesar_pa_fibonnaci
